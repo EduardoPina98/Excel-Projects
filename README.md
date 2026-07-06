@@ -6,7 +6,7 @@ This project delves into cleaning data from bike sales to present an interactive
 
 ---
 
-### [Presidential Data Cleaning]()
+### [Presidential Data Cleaning](https://github.com/EduardoPina98/Excel-Projects/blob/main/US%20Presidents%20Dataset%20Cleaning.xlsx)
 **Key Skills**: Removing Duplicates, Filter, TRIM, PROPER, SUBSTITUTE, Numeric Transformation, Date Conversion, Conditional Formatting
 This project focuses on cleaning data from a fictional presidential campaign, displaying names, presidential parties and salaries effectively and accurately.
 
