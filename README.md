@@ -1,7 +1,7 @@
 # Excel-Projects
 
 ### [Bike Sales Dashboard](https://github.com/EduardoPina98/Excel-Projects/blob/main/Excel%20Bike%20Sales%20Dataset.xlsx)
-**Key Skills**: TRIM, PROPER, Filter, Fixing Dates, Removing Duplicates  
+**Key Skills**: TRIM, PROPER, Filter, Fixing Dates, Removing Duplicates
 This project delves into cleaning data from bike sales to present an interactive dashboard with slicers that allow for an in-depth comparison of consumer buying habits.
 
 ---
